@@ -1,0 +1,10 @@
+/scripting/compiled
+/scripting/include
+/scripting/amxxpc
+/scripting/amxxpc.exe
+/scripting/amxxpc32.dll
+/scripting/amxxpc32.so
+/scripting/compile.dat
+/scripting/compile.exe
+/scripting/compile.sh
+/plugins

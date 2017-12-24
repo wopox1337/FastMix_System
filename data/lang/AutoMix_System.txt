@@ -1,0 +1,81 @@
+[ru]
+KICK_NotYouGame = Это не ваша игра. (#%i)
+WeaponRestrict = * Оружие запрещено к покупке! *
+
+NOTREADY = Не готов
+READY = Готов
+ALREADY_READY = Вы уже готовы к игре!
+STATUS = Стадия
+YES = Да
+NO = Нет
+NotReadyList = Не готовы:
+
+CMD_Ready = Игрок '%s' %L к игре! (%d/%d)
+CMD_Status = Стадия: %L. Напишите '!r', чтобы быть готовым к игре. (%i/%i).
+CMD_StatusInGame = Стадия: %L. Счёт: [%i - %i]. Команда лидер: %L.
+
+WARMUP = Разминка
+HALF_1 = 1 половина
+HALF_2 = 2 половина
+OVERTIME = Доп. раунды
+FINISHED = *** ИГРА ОКОНЧЕНА ***
+
+Team_A = Команда A
+Team_B = Команда B
+No_Team_Leader = Нет команды лидера
+
+WillBeOVERTIME = Счёт команд сровнялся [%i - %i], игра продолжается на доп. раунды.
+GamePreReady = Игра запустится автоматически через %.0f мин.
+GameForceStart = Все игроки в игре (%i / %i) - игра запущена автоматически.
+
+NeedPause = Игрок \y%s\w предлагает взять паузу.^n^tВзять паузу?
+OpponentTeamNeedAPause = Вражеская команда голосует за приостановку игры.
+VoteForPauseAlreadyStarted = Голосование за паузу игры уже запущено.
+PauseCanceled = Пауза не состоялась. Не все игроки проголосовали за паузу.
+PauseAllowedOnlyInGame = Пауза доступна только во время игры!
+VoteForPauseStarted = Голосование за паузу игры началось!
+WillBePause = В следующем раунде будет пауза!
+DontPauseFlood = Вы не можете так часто голосовать за паузу.
+PauseAlreadyEnabled = Игра уже в паузе!
+NotEnoughPlayersToStart = Не хватает игроков для запуска игры (%i / %i). Сервер выключается.
+
+[en]
+KICK_NotYouGame = This is not your game. (#%i)
+WeaponRestrict = * This weapon is Restricted! *
+
+NOTREADY = Not ready
+READY = Ready
+ALREADY_READY = You're ready to play!
+STATUS = State
+YES = Yes
+NO = No
+NotReadyList = Not Ready:
+
+CMD_Ready = Player '%s' %sready to game! (%d/%d)
+CMD_Status = State: %L. Say '!r' to vote for start game. Currently voted: %d/%d
+CMD_StatusInGame = State: %L. Scores: [%i - %i]. Team Leader: %L.
+
+WARMUP = Warmup
+HALF_1 = 1 half
+HALF_2 = 2 half
+OVERTIME = Overtime
+FINISHED = *** Game finished ***
+
+Team_A = Team A
+Team_B = Team B
+No_Team_Leader = No Leader Team
+
+WillBeOVERTIME = Teams Score equal [%i - %i] game will continue for additional 3 rounds.
+GamePreReady = The game starts forcibly in %.0f min.
+GameForceStart = All players in the game - the game is running automatically.
+
+NeedPause = Player \y%s\w request to pause the game. ^n^tPause game?
+OpponentTeamNeedAPause = The enemy team wants to take a pause.
+VoteForPauseAlreadyStarted = Vote for pause the game already started.
+PauseCanceled = Voting for a pause of the game is not successful. Not all players voted to pause.
+PauseAllowedOnlyInGame = Game pause allowed only on game!
+VoteForPauseStarted = Vote for pause started!
+WillBePause = On next round will be pause of the game!
+DontPauseFlood = You can't often vote for a pause.
+PauseAlreadyEnabled = Game already in pause!
+NotEnoughPlayersToStart = Not enough players to start the game. The server shuts down.

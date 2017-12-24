@@ -1,0 +1,3 @@
+.gitignore
+copy_to_hlds.bat
+listnotcopy.txt

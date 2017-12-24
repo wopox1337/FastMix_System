@@ -1,0 +1,3 @@
+cd $(CURRENT_DIRECTORY)
+"$(CURRENT_DIRECTORY)\amxxpc.exe" "$(FILE_NAME)" "-o$(CURRENT_DIRECTORY)\..\plugins\$(NAME_PART).amxx"
+"..\copy_to_hlds.bat"
